@@ -3,6 +3,7 @@
 
 - 👩🏽‍💻  I’m a Software Developer focusing on leveling up my tech skills
 - ✨  I’m currently deepening my knowledge in Python, Django and Testing
+- 🚀  also quite into software design and application security
 - 📫  most trustworthy way of reaching me is by [email](amelie.kn@gmail.com)
 - 📌  based in Germany 🇩🇪
 - 🎀  pronouns: she/her
