@@ -2,7 +2,7 @@
 <img align='left' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Transparent_square.svg/768px-Transparent_square.svg.png' height='180"' width='20"'>
 
 👩🏽‍💻  Software Developer working on leveling up my tech skills<br>
-✨  currently studing golang and k8s<br>
+✨  currently studing golang<br>
 🚀  quite into software design, security and cloud<br>
 📫  the most trustworthy way of reaching me is by [email](mailto:amelie.kn@gmail.com)<br>
 📍  based in Germany 🇩🇪<br>
