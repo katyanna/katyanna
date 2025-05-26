@@ -3,10 +3,9 @@
 A software girl focused on platform engineering. 
 Currently building infrastructure at scale @ [Zalando](https://www.corporate-zalando.com/), where we manage 200+ clusters, design custom CRDs, and contribute to open-source tooling.
 
-**🛠 Tech**
+**🛠 Main tech**
 - Kubernetes
 - Python & Go
-- Docker
 - AWS-native infrastructure
 
 **🚀 What matters to me**
