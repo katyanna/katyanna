@@ -1,5 +1,22 @@
-👩🏽‍💻  Software Engineer<br>
-🚀  software design, security, cloud<br>
-📫  reach me by [email](mailto:amelie.kn@gmail.com)<br>
-📍  based in Germany 🇩🇪<br>
-🎀  she/her<br>
+#### Hi, I'm Katyanna 👩🏽‍💻
+
+A software girl focused on platform engineering. 
+Currently building infrastructure at scale @ [Zalando](https://www.corporate-zalando.com/), where we manage 200+ clusters, design custom CRDs, and contribute to open-source tooling.
+
+**🛠 Tech**
+- Kubernetes
+- Python & Go
+- Docker
+- AWS-native infrastructure
+
+**🚀 What matters to me**
+- Building internal platforms that empower teams and make Kubernetes *boring*
+- Designing infrastructure as product — reliable, automated, observable
+- Clean, maintainable tooling with real-world use cases
+
+**📄 Certifications**
+- ✅ [CKA — Certified Kubernetes Administrator](https://www.cncf.io/certification/cka/)
+
+**📬 Reach me**
+- 🖇 [LinkedIn](https://linkedin.com/in/katyannamoura)
+- ✉️ [email](mailto:amelie.kn+github@gmail.com)
