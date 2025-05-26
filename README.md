@@ -14,5 +14,5 @@ Currently building infrastructure at scale @ [Zalando](https://www.corporate-zal
 - Clean, maintainable tooling with real-world use cases
 
 **📬 Reach me**
-- 🖇 [LinkedIn](https://linkedin.com/in/katyannamoura)
-- ✉️ [email](mailto:amelie.kn+github@gmail.com)
+🖇 [LinkedIn](https://linkedin.com/in/katyannamoura)
+✉️ [email](mailto:amelie.kn+github@gmail.com)
