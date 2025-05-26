@@ -14,9 +14,6 @@ Currently building infrastructure at scale @ [Zalando](https://www.corporate-zal
 - Designing infrastructure as product — reliable, automated, observable
 - Clean, maintainable tooling with real-world use cases
 
-**📄 Certifications**
-- ✅ [CKA — Certified Kubernetes Administrator](https://www.cncf.io/certification/cka/)
-
 **📬 Reach me**
 - 🖇 [LinkedIn](https://linkedin.com/in/katyannamoura)
 - ✉️ [email](mailto:amelie.kn+github@gmail.com)
