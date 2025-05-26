@@ -13,6 +13,4 @@ Currently building infrastructure at scale @ [Zalando](https://www.corporate-zal
 - Designing infrastructure as product — reliable, automated, observable
 - Clean, maintainable tooling with real-world use cases
 
-**📬 Reach me**
-🖇 [LinkedIn](https://linkedin.com/in/katyannamoura)
-✉️ [email](mailto:amelie.kn+github@gmail.com)
+📬 Reach me through [email](mailto:amelie.kn+github@gmail.com).
