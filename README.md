@@ -1,6 +1,6 @@
 #### Hi, I'm Katyanna 👩🏽‍💻
 
-Software Engineer currently building infrastructure at scale @ [Zalando](https://www.corporate-zalando.com/), where we manage 200+ clusters, design and maintain custom CRDs, and contribute to open-source tooling.
+Software Engineer currently building infrastructure at scale @ [Zalando](https://github.com/zalando-incubator), where we manage 200+ clusters, design and maintain custom CRDs, and contribute to open-source tooling.
 
 **🛠 Main tech**
 - Kubernetes
