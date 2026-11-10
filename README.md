@@ -8,8 +8,8 @@ Software Engineer currently building infrastructure at scale @ [Zalando](https:/
 - AWS-native infrastructure
 
 **🚀 What matters to me**
-- Building internal platforms that empower teams
-- Designing infrastructure as product — reliable, automated, observable
-- Clean, maintainable tooling with real-world use cases
+- Building internal platforms that empower teams.
+- Designing infrastructure as product; reliable, automated, observable.
+- Clean, maintainable tooling with real-world use cases.
 
 📬 Reach me through [email](mailto:amelie.kn+github@gmail.com).
